@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@vercel/kv": "^0.2.3",
     "mdui": "^1.0.2",
     "next": "latest",
     "react": "latest",
